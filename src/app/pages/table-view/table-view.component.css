@@ -1,0 +1,19 @@
+.example-selected-value {
+    margin: 15px 0;
+}
+  
+.container-table {
+    /* width: 50%; */
+    display: inline-block;
+    /* display: flex;
+    flex-direction: column; */
+    padding: 3%;
+}
+
+.container-table.mat-elevation-z2 {
+    overflow-x: auto;
+}
+
+.container-table .mat-table.mat-table {
+    min-width: 450px;
+}
